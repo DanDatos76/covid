@@ -74,25 +74,4 @@ st.subheader('Informes Covid Dan Data Scientist')
 
 
 
-# The preset Streamlit theme that your custom theme inherits from. One of "light" or "dark".
-base ="dark"
-
-# Primary accent color for interactive elements.
-#primaryColor =
-
-# Background color for the main content area.
-backgroundColor = "pink"
-
-# Background color used for the sidebar and most interactive widgets.
-#secondaryBackgroundColor =
-
-# Color used for almost all text.
-textColor = "blue"
-
-# Font family for all text in the app, except code blocks. One of "sans serif", "serif", or "monospace".
-# Default: "sans serif"
-font = "sans serif"
-
-
-
 
